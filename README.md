@@ -6,6 +6,7 @@ features of a client site React project include:
 4. User account management and authentication, including login and registration features
 5. Dynamic data rendering and filtering to provide a personalized experience for users
 6. Analytics and tracking functionality to monitor user behavior and website performance
+7. New Anonymous Feature . here for Online chat
 
 
 To start a React project, you can follow these steps:
